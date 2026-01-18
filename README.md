@@ -9,6 +9,7 @@ El objetivo del proyecto es comprender cómo Java maneja la ejecución concurren
 ## Contenidos del proyecto
 
 ### Hilos en Java
+
 - Introducción a los hilos
 - Creación de hilos heredando de la clase Thread
 - Creación de hilos implementando la interfaz Runnable
@@ -16,17 +17,20 @@ El objetivo del proyecto es comprender cómo Java maneja la ejecución concurren
 - Diferencias entre join() y sleep()
 
 ### Sincronización de hilos
+
 - Uso del modificador synchronized
 - Comunicación entre hilos con wait() y notify()
 - Implementación del patrón Productor–Consumidor
 - Ejemplos clásicos y versión con Java 8 (lambda)
 
 ### Tareas programadas
+
 - Uso de Timer y TimerTask
 - Agendamiento de tareas que se ejecutan una o varias veces
 - Ejecución periódica de tareas
 
 ### Executor Framework
+
 - SingleThreadExecutor
 - Manejo de resultados con Future
 - FixedThreadPool
