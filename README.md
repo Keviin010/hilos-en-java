@@ -14,7 +14,7 @@ El objetivo del proyecto es comprender cómo Java maneja la ejecución concurren
 - Creación de hilos heredando de la clase Thread
 - Creación de hilos implementando la interfaz Runnable
 - Uso de expresiones lambda con Runnable
-- Diferencias entre join() y sleep()
+- Diferencias entre join() y sleep().
 
 ### Sincronización de hilos
 
